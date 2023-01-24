@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "chromedriver": "^109.0.0",
+    "nightwatch": "^2.6.10"
+  },
+  "type": "module"
+}
